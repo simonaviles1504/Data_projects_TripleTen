@@ -2,9 +2,10 @@
 Projects I worked on while attending the Data Analysis TripleTen Bootcamp.
 | Project number | Title | Description |
 | :-----------: | ----------- |----------- |
-| 1 | nyc_airbnb_data| The project task was to analyze user data and find possible causes for the company’s low CR and retention rate. |
-| 2 | Business Analytics Project | The project task was to prepare a report that gives insight into the shopping habits of Instacart customers |
-| 3 | Saving SuperStore | The project task was to study the sales funnel and analyze the results of an A/B test for a food startup. |
-| 4 | Superstore Returns Analysis: Identifying Root Causes and Reduction Strategies | The project task was to help a chain of fitness clubs develop a customer retention strategy. |
-| 5 | Shopify App Analysis | The project task was to help a chain of fitness clubs develop a customer retention strategy. |
-| 6 | Zomato Restaurant Analysis | The project task was to help a chain of fitness clubs develop a customer retention strategy. |
+| 1 | nyc_airbnb_data| I analyzed the Manhattan vacation rental market. They want guidance on which property types to invest in, and I analyze Airbnb data for insights. |
+| 2 | Business Analytics Project | Analyzing e-commerce user activity logs to extract key business metrics and insights that drive strategic decision-making for online retail operations. |
+| 3 | Saving SuperStore | I Analyzing SuperStore's sales, operations, and financial data to diagnose declining profitability and create strategic recommendations for business turnaround and growth. |
+| 4 | Superstore Returns Analysis: Identifying Root Causes and Reduction Strategies | Executive-Focused
+"Conducting comprehensive analysis of SuperStore's customer return patterns to identify root causes of high return rates and develop strategic recommendations for the CEO to reduce return volumes and improve customer satisfaction. |
+| 5 | Shopify App Analysis | I Analyzed Shopify app marketplace data to identify key success factors and performance drivers that determine app popularity, user adoption, and overall market success within the e-commerce platform ecosystem. |
+| 6 | Zomato Restaurant Analysis | I Conducted strategic business intelligence analysis for Zomato's restaurant aggregator platform, focusing on one of three key areas: customer segmentation, restaurant performance, or sales dynamics to provide actionable insights for business growth. |
